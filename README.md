@@ -15,11 +15,11 @@ The proposed 1D CNN architecture is suitable for a wide range of time series cla
 |---------------|-------------|
 | Python 3.6 | Programming language |
 | TensorFlow 2.0.0 | Deep learning framework |
-| Keras API | High level neural network construction |
+| Keras API | Neural network construction |
 | NumPy | Numerical computation |
-| Pandas | Data preprocessing and labeling |
-| Scikit-learn | Dataset splitting and normalization |
-| Matplotlib / Seaborn | Visualization of training results |
+| Pandas | Data processing |
+| Scikit-learn | Data normalization |
+| Matplotlib / Seaborn | Visualization of training |
 
 Installation:
 ```bash
